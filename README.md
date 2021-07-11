@@ -1,2 +1,2 @@
 # EdgeLedger
-View Page @ https://trevor-edgeledger.netlify.app/
+Live Example @ https://trevor-edgeledger.netlify.app/
